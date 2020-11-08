@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Xanh+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Xanh+Mono:ital@1&display=swap');
+
+* {
+    background-color: transparent;
+    color: black;
+}
+
+.header {
+    font-family: 'Xanh Mono', monospace;
+    background-color: transparent;
+    height: 40px;
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.p {
+    font-family: 'Xanh Mono', monospace;
+    font-size: 50px;
+    background-color: transparent;
+    height: 40px;
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.footerDistributed {
+    text-align: center;
+}
+
+.carousel {
+    width: 100%;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+#card {
+    padding-left: 60px;
+    padding-right: 20px;
+    background: black;
+    color: black;
+}
+
+.footerDistributed {
+    text-align: center;
+}
+
+h5 {
+    font-weight: bolder;
+    color:hsl(0, 0%, 47%);
+}
+
+#social {
+    padding-left: 100px;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+#QCS {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 60px;
+    text-align: center;
+}
+
+#crights {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    padding-top: 40px;
+}
+
+#links {
+    border-left-style: dotted;
+    border-width: thin;
+}
+
+#SYE {
+    border-right-style: dotted;
+    border-left-style: dotted;
+    border-width: thin;
+}
+
+#Discover {
+    border-right-style: dotted;
+    border-width: thin;
+}
+
+#buttonModal {
+    padding-right: 70px;
+    display: flex;
+    flex-direction: row;
+    align-items: left;
+}
